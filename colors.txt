@@ -2,4 +2,4 @@ red
 blue
 green
 yellow
-pink
+pink color
